@@ -16,14 +16,14 @@ An optional AI chat assistant (powered by Google Gemini) is available in the sid
 
 ## Live Demo
 
-👉 **[Launch the app on Streamlit Cloud](https://your-app-url.streamlit.app)**
+👉 **[Launch the app on Streamlit Cloud](https://mlcompass.streamlit.app)**
 
 ## Run Locally
 
 ```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+# 1. Go to your Repo
+# E.g.
+cd /work/inestp05/Abgabe
 
 # 2. Install dependencies
 pip install -e ".[reports]"
